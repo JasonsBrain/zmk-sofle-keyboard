@@ -187,6 +187,6 @@ For more context, these Reddit threads are helpful (they apply to the Corne but 
   1. Modified power supply mode to reduce power consumption.
   2. Fixed the automatic shut-off feature for RGB power supply.
 
-> If your keyboard was updated before October 24, please update to the latest firmware.
+> If your keyboard was updated before October 24, please update to the latest firmware. 
 
 For 3D printed model files or any issues and malfunctions with the keyboard, please contact 380465425@qq.com
